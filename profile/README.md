@@ -4,9 +4,9 @@
 
 > **"Complex policies, solved with a single question."**
 
-### 제품 소개
+### 소개
 
-**Policy Pass(정책 패스)**는 파편화된 청년 정책 정보를 **RAG(검색 증강 생성)** 기반으로 사용자 맞춤형으로 제공하고, 응답의 신뢰성을 **정량적으로 검증**하는 QnA 시스템입니다.
+Policy Pass(정책 패스)는 파편화된 청년 정책 정보를 **RAG(검색 증강 생성)** 기반으로 사용자 맞춤형으로 제공하고, 응답의 신뢰성을 **정량적으로 검증**하는 QnA 시스템입니다.
 
 #### Problem Definition (문제 정의)
 
